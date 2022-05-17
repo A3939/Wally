@@ -9,12 +9,12 @@ Widget brandName() {
     mainAxisAlignment: MainAxisAlignment.center,
     children: const <Widget>[
       Text(
-        "Wal",
+        "Adi",
         style: TextStyle(
             color: Colors.black, fontFamily: 'PermanentMarker', fontSize: 30),
       ),
       Text(
-        "ly",
+        "tya",
         style: TextStyle(
             color: Colors.blue, fontFamily: 'PermanentMarker', fontSize: 30),
       )

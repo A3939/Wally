@@ -1,6 +1,6 @@
 import 'package:wally/model/categories_model.dart';
 
-String apiKEY = "563492ad6f91700001000001c9f50e6184974625b84ee779d0a11101";
+String apiKEY = "563492ad6f917000010000016f28b31494854989ad742ca552bc4713";
 
 List<CategorieModel> getCategories() {
   List<CategorieModel> categories = [];
